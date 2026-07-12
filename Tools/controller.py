@@ -7,7 +7,7 @@ reload(xTools4.modules.xproject)
 import os, glob, time, json, string, itertools
 from fontTools.designspaceLib import DesignSpaceDocument
 from xTools4.modules.xproject import xProject, makeParentAxis
-from xTools4.modules.measurements import setSourceNamesFromMeasurements, readMeasurements
+from xTools4.modules.measurements import setSourceNamesFromMeasurements, readMeasurements, extractMeasurements
 from xTools4.modules.sys import timer
 
 
@@ -162,6 +162,51 @@ class AmstelvarA2Controller(xProject):
 
     def addInstances(self):
         super().addInstances(familyName=f'{self.familyName} {self.subFamily}')
+
+    def extractMeasurements(self):
+        
+        # maybe this needs to be defined somewhere else
+        axes = {
+            "opsz" : {
+              "name"    : "Optical size",
+              "default" : 14,
+              "minimum" : 8,
+              "maximum" : 144,
+            },
+            "wght" : {
+              "name"    : "Weight",
+              "default" : 400,
+              "minimum" : 100,
+              "maximum" : 1000,
+            },
+            "wdth": {
+              "name"    : "Width",
+              "default" : 100,
+              "minimum" : 50,
+              "maximum" : 125,
+            }
+        }
+
+        # ignore GRAD sources
+        referenceSources = [ufoPath for ufoPath in self.referenceSourcesPaths.values() if 'GRAD' not in os.path.split(ufoPath)[-1]]
+
+        sources = extractMeasurements(referenceSources, self.measurementsPath, self.parametricAxes)
+
+        # save measurements to reference blends file
+        blendsDict = {
+            'axes'    : axes,
+            'sources' : sources,
+        }
+
+        print(f'saving blended axes and measurements to {self.subFamily}/reference/blends.json...', end=' ')
+
+        referenceBlendsPath = os.path.join(self.referenceSourcesFolder, self.blendsFile)
+
+        with open(referenceBlendsPath, 'w', encoding='utf-8') as f:
+            json.dump(blendsDict, f, indent=2)
+
+        print(f'({os.path.exists(referenceBlendsPath)})\n')
+
 
     def buildBlendsFile(self, parentParametric=True):
         if not os.path.exists(self.referenceBlendsPath):
@@ -328,7 +373,7 @@ if __name__ == '__main__':
 
     folder = os.path.dirname(os.getcwd())
 
-    subFamily = ['Roman', 'Italic'][1]
+    subFamily = ['Roman', 'Italic'][0]
 
     start = time.time()
 
@@ -359,9 +404,10 @@ if __name__ == '__main__':
     # p.tuningLevels = [1, 2, 3]
     # p.createTuningSources(sparse=False)
     # p.resetTuningSources()
-    # p.calculateTuningSources(['ampersand'], referenceSource, levels=[1,2,3])
+    # p.calculateTuningSources(['idot'], referenceSource, levels=[1,2,3])
 
     # --- build designspace ---
+    # p.extractMeasurements()
     # p.parametricAxesHidden = True
     # p.tuningAxesHidden = True
     # p.tuning = True
@@ -371,7 +417,7 @@ if __name__ == '__main__':
 
     # --- normalization ---
     # p.cleanupSources(parametric=True, tuning=True, reference=True)
-    # p.normalizeSources(parametric=True, tuning=True, reference=True)
+    # p.normalizeSources(parametric=False, tuning=True, reference=False)
 
     # --- project info ---
     # p.printSettings()

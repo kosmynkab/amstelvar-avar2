@@ -190,7 +190,9 @@ class AmstelvarA2Controller(xProject):
         # ignore GRAD sources
         referenceSources = [ufoPath for ufoPath in self.referenceSourcesPaths.values() if 'GRAD' not in os.path.split(ufoPath)[-1]]
 
-        sources = extractMeasurements(referenceSources, self.measurementsPath, self.parametricAxes)
+        parametricAxes = [a for a in self.parametricAxes if a not in self._customParametricAxes]
+
+        sources = extractMeasurements(referenceSources, self.referenceMeasurementsPath, parametricAxes)
 
         # save measurements to reference blends file
         blendsDict = {
@@ -404,7 +406,7 @@ if __name__ == '__main__':
     # p.tuningLevels = [1, 2, 3]
     # p.createTuningSources(sparse=False)
     # p.resetTuningSources()
-    # p.calculateTuningSources(['idot'], referenceSource, levels=[1,2,3])
+    # p.calculateTuningSources(list(string.ascii_lowercase), referenceSource, levels=[1,2,3], tuneBaseGlyphs=True)
 
     # --- build designspace ---
     # p.extractMeasurements()
@@ -412,11 +414,11 @@ if __name__ == '__main__':
     # p.tuningAxesHidden = True
     # p.tuning = True
     # p.buildDesignspace(patchBlends=False, instances=True, parentParametric=True)
-    # p.validateDesignspace(locations=True, mappings=False, instances=False)
+    # p.validateDesignspace(locations=True, mappings=True, instances=False)
     # p.validateSources()
 
     # --- normalization ---
-    # p.cleanupSources(parametric=True, tuning=True, reference=True)
+    # p.cleanupSources(parametric=False, tuning=True, reference=False)
     # p.normalizeSources(parametric=False, tuning=True, reference=False)
 
     # --- project info ---
@@ -428,7 +430,7 @@ if __name__ == '__main__':
     # p.proofGlyphMemes(list(string.ascii_uppercase + string.ascii_lowercase), anchors=False)
     # p.proofSourcesGlyphSet(showCompatible=True, validateComposites=True)
     # p.proofBlends(list(string.ascii_uppercase + string.ascii_lowercase), margins=True, labels=True, levels=False, levelsShow=[2], header=True, footer=True, points=False)
-    # p.proofTuning(list(string.ascii_uppercase + string.ascii_lowercase), referenceSource, level=3)
+    # p.proofTuning(['idot'], referenceSource, level=3)
 
     # --- build fonts ---
     p.buildVariableFont(debug=False, featureWriter=False, noGDEF=True, subset=None)

@@ -1,5 +1,7 @@
 # menuTitle: extract parametric blends from Amstelvar1 extrema
 
+### DEPRECATED >>> use AmstelvarA2 controller
+
 from importlib import reload
 import xTools4.modules.measurements
 reload(xTools4.modules.measurements)

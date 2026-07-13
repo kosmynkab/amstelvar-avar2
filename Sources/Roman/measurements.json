@@ -18895,7 +18895,24 @@
     "Yi": {},
     "Engtail": {},
     "Obarcyr-stroke": {},
-    "cy-descendercomb": {},
+    "cy-descendercomb": {
+      "5 0": {
+        "name": "YSHU",
+        "direction": "y"
+      },
+      "4 1": {
+        "name": "YSHU",
+        "direction": "y"
+      },
+      "3 2": {
+        "name": "XSVU",
+        "direction": "x"
+      },
+      "2 1": {
+        "name": "YSVU",
+        "direction": "y"
+      }
+    },
     "Iotadieresis": {},
     "Ccedilla": {},
     "egrave": {},
@@ -18913,20 +18930,20 @@
     "Dcaron": {},
     "Uhorn": {},
     "Cy-descendercomb.case": {
-      "3 2": {
-        "name": "XSVU",
-        "direction": "x"
-      },
-      "2 1": {
-        "name": "YSVU",
-        "direction": "y"
-      },
       "5 0": {
         "name": "YSHU",
         "direction": "y"
       },
       "4 1": {
         "name": "YSHU",
+        "direction": "y"
+      },
+      "3 2": {
+        "name": "XSVU",
+        "direction": "x"
+      },
+      "2 1": {
+        "name": "YSVU",
         "direction": "y"
       }
     },

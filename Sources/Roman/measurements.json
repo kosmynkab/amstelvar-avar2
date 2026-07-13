@@ -18913,12 +18913,20 @@
     "Dcaron": {},
     "Uhorn": {},
     "Cy-descendercomb.case": {
-      "2 3": {
+      "3 2": {
         "name": "XSVU",
         "direction": "x"
       },
-      "1 2": {
+      "2 1": {
         "name": "YSVU",
+        "direction": "y"
+      },
+      "5 0": {
+        "name": "YSHU",
+        "direction": "y"
+      },
+      "4 1": {
+        "name": "YSHU",
         "direction": "y"
       }
     },

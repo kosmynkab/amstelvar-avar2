@@ -21,7 +21,7 @@
 		</contour>
 	</outline>
 	<anchor name="bottom" x="357" y="0"/>
-	<anchor name="top" x="357" y="1100"/>
+	<anchor name="top" x="510" y="1100"/>
 	<anchor name="ogonek" x="103" y="0"/>
 	<lib>
 		<dict>

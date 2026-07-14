@@ -21,6 +21,6 @@
 		</contour>
 	</outline>
 	<anchor name="bottom" x="267" y="0"/>
-	<anchor name="top" x="267" y="920"/>
+	<anchor name="top" x="254" y="920"/>
 	<anchor name="ogonek" x="107" y="0"/>
 </glyph>

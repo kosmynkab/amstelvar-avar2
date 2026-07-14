@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idot" format="2">
+	<advance width="495"/>
+	<outline>
+		<contour>
+			<point x="246" y="1363" type="qcurve" smooth="yes"/>
+			<point x="250" y="1409"/>
+			<point x="325" y="1467"/>
+			<point x="366" y="1467" type="qcurve" smooth="yes"/>
+			<point x="414" y="1467"/>
+			<point x="475" y="1406"/>
+			<point x="471" y="1363" type="qcurve" smooth="yes"/>
+			<point x="465" y="1318"/>
+			<point x="389" y="1257"/>
+			<point x="348" y="1257" type="qcurve" smooth="yes"/>
+			<point x="310" y="1257"/>
+			<point x="242" y="1312"/>
+		</contour>
+	</outline>
+	<anchor name="_top" x="308" y="1050"/>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.guideline.magnetic.UoBWQ8KbZg</key>
+			<integer>5</integer>
+		</dict>
+	</lib>
+</glyph>

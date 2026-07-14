@@ -3,18 +3,18 @@
 	<advance width="748"/>
 	<outline>
 		<contour>
-			<point x="419" y="1365" type="qcurve" smooth="yes"/>
-			<point x="424" y="1418"/>
-			<point x="505" y="1492"/>
-			<point x="552" y="1492" type="qcurve" smooth="yes"/>
-			<point x="604" y="1492"/>
-			<point x="671" y="1414"/>
-			<point x="666" y="1365" type="qcurve" smooth="yes"/>
-			<point x="659" y="1314"/>
-			<point x="577" y="1237"/>
-			<point x="530" y="1237" type="qcurve" smooth="yes"/>
-			<point x="488" y="1237"/>
-			<point x="414" y="1309"/>
+			<point x="420" y="1363" type="qcurve" smooth="yes"/>
+			<point x="427" y="1421"/>
+			<point x="498" y="1493"/>
+			<point x="556" y="1493" type="qcurve" smooth="yes"/>
+			<point x="608" y="1493"/>
+			<point x="671" y="1417"/>
+			<point x="665" y="1363" type="qcurve" smooth="yes"/>
+			<point x="657" y="1307"/>
+			<point x="586" y="1236"/>
+			<point x="529" y="1236" type="qcurve" smooth="yes"/>
+			<point x="477" y="1236"/>
+			<point x="414" y="1312"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="494" y="1050"/>

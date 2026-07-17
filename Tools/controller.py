@@ -431,7 +431,7 @@ if __name__ == '__main__':
 
     # --- normalization ---
     # p.cleanupSources(parametric=False, tuning=True, reference=False)
-    # p.normalizeSources(parametric=False, tuning=False, reference=True)
+    p.normalizeSources(parametric=True, tuning=False, reference=False)
 
     # --- project info ---
     # p.printSettings()
@@ -440,14 +440,14 @@ if __name__ == '__main__':
 
     # --- proofing ---
 
-    glyphNames = p.cyrillicProofGlyphNames
+    # glyphNames = p.cyrillicProofGlyphNames
 
-    for glyphName in glyphNames:
-        try:
-            print(f'Proofing {glyphName}...')
-            p.proofGlyphMemes([glyphName], anchors=True)
-        except Exception as e:
-            print(f'⚠️ Skipping {glyphName}: {e}')
+    # for glyphName in glyphNames:
+    #     try:
+    #         print(f'Proofing {glyphName}...')
+    #         p.proofGlyphMemes([glyphName], anchors=True)
+    #     except Exception as e:
+    #         print(f'⚠️ Skipping {glyphName}: {e}')
 
     # p.proofGlyphMemes(p.cyrillicProofGlyphNames,anchors=True)
     # p.proofGlyphMemes(list(string.ascii_uppercase + string.ascii_lowercase), anchors=False)

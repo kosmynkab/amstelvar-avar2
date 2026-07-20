@@ -60,7 +60,7 @@
 	<lib>
 		<dict>
 			<key>public.markColor</key>
-			<string>1,1,0.041,1</string>
+			<string>0.0932,0.5691,0.0489,1</string>
 		</dict>
 	</lib>
 </glyph>

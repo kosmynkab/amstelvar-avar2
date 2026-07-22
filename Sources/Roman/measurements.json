@@ -7557,19 +7557,19 @@
         "name": "YTUC",
         "direction": "y"
       },
-      "30 31": {
+      "30 32": {
         "name": "XSHU",
         "direction": "x"
       },
-      "34 35": {
+      "33 35": {
         "name": "XSHU",
         "direction": "x"
       },
-      "22 23": {
+      "21 23": {
         "name": "XSHU",
         "direction": "x"
       },
-      "18 19": {
+      "18 20": {
         "name": "XSHU",
         "direction": "x"
       },
@@ -7587,6 +7587,22 @@
       },
       "19 20": {
         "name": "YSHU",
+        "direction": "y"
+      },
+      "35 34": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "30 31": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "23 22": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "18 19": {
+        "name": "YHAU",
         "direction": "y"
       },
       "-1 35": {
@@ -13830,6 +13846,14 @@
         "name": "XOUC",
         "direction": "x"
       },
+      "25 26": {
+        "name": "XOUC",
+        "direction": "a"
+      },
+      "44 51": {
+        "name": "XOUC",
+        "direction": "a"
+      },
       "36 41": {
         "name": "YOUC",
         "direction": "x"
@@ -14021,14 +14045,6 @@
       "27 99": {
         "name": "XUCD",
         "direction": "x"
-      },
-      "25 26": {
-        "name": "XOUC",
-        "direction": "a"
-      },
-      "44 51": {
-        "name": "XOUC",
-        "direction": "a"
       }
     },
     "Gheup": {
@@ -20037,93 +20053,6 @@
       }
     },
     "threequartersemdash": {},
-    "Zhebrevecyr": {},
-    "Ucy": {
-      "23 18": {
-        "name": "XOUC",
-        "direction": "x"
-      },
-      "35 30": {
-        "name": "XOUC",
-        "direction": "x"
-      },
-      "36 29": {
-        "name": "YOUC",
-        "direction": "a"
-      },
-      "13 6": {
-        "name": "YOUC",
-        "direction": "y"
-      },
-      "24 17": {
-        "name": "YOUC",
-        "direction": "a"
-      },
-      "30 23": {
-        "name": "XTUD",
-        "direction": "x"
-      },
-      "13 32": {
-        "name": "YTUC",
-        "direction": "y"
-      },
-      "30 31": {
-        "name": "XSHU",
-        "direction": "x"
-      },
-      "34 35": {
-        "name": "XSHU",
-        "direction": "x"
-      },
-      "22 23": {
-        "name": "XSHU",
-        "direction": "x"
-      },
-      "18 19": {
-        "name": "XSHU",
-        "direction": "x"
-      },
-      "31 32": {
-        "name": "YSHU",
-        "direction": "y"
-      },
-      "34 33": {
-        "name": "YSHU",
-        "direction": "y"
-      },
-      "22 21": {
-        "name": "YSHU",
-        "direction": "y"
-      },
-      "19 20": {
-        "name": "YSHU",
-        "direction": "y"
-      },
-      "-1 35": {
-        "name": "XUCD",
-        "direction": "x"
-      },
-      "18 99": {
-        "name": "XUCD",
-        "direction": "x"
-      },
-      "12 O": {
-        "name": "YTOS",
-        "direction": "y"
-      },
-      "27 26": {
-        "name": "XTTW",
-        "direction": "x"
-      },
-      "25 26": {
-        "name": "YTTL",
-        "direction": "a"
-      },
-      "27 28": {
-        "name": "YTTL",
-        "direction": "a"
-      }
-    },
     "Ha-stroke": {
       "0 3": {
         "name": "XOUC",

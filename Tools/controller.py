@@ -390,10 +390,10 @@ if __name__ == '__main__':
 
     p = AmstelvarA2Controller(folder, 'AmstelvarA2', subFamily)
 
-    # referenceSource = os.path.join(p.referenceSourcesFolder, f'Amstelvar-{subFamily}_wght400.ufo')
+    referenceSource = os.path.join(p.referenceSourcesFolder, f'Amstelvar-{subFamily}_wght400.ufo')
 
-    # glyphNamesEtcetera = list(set(itertools.chain(*[items for items in p.smartSets['etcetera'].values()])))
-    # glyphNamesPunctuation = 'period exclam comma colon semicolon question'.split()
+    glyphNamesEtcetera = list(set(itertools.chain(*[items for items in p.smartSets['etcetera'].values()])))
+    glyphNamesPunctuation = 'period exclam comma colon semicolon question'.split()
 
     # --- managing sources ---
     # p.createParametricSources(['XVAU'], minSource=True, maxSource=True)
@@ -402,7 +402,7 @@ if __name__ == '__main__':
     #     p.splitSources(src, dst, glyphNamesEtcetera, preflight=False)
 
     # --- copy from default ---
-    # p.updateGlyphsFromDefault(['Ze'], 'wght400_old', preflight=False, parametricSources=True, tuningSources=True)
+    # p.updateGlyphsFromDefault(['dollar'], 'WDSP1000', preflight=False, parametricSources=True, tuningSources=True)
     # p.copyGlyphsFromDefault(list('ij'), parametricSources=False, tuningSources=True)
     # p.copyGroupsFromDefault()
     # p.copyUnicodesFromDefault(preflight=False)
@@ -422,16 +422,16 @@ if __name__ == '__main__':
     # p.calculateTuningSources(['dollar'], referenceSource, levels=[1,2,3], tuneBaseGlyphs=True)
 
     # --- build designspace ---
-    # p.parametricAxesHidden = True
-    # p.tuningAxesHidden = True
-    # p.tuning = True
-    # p.buildDesignspace(patchBlends=False, instances=True, parentParametric=True)
+    p.parametricAxesHidden = True
+    p.tuningAxesHidden = True
+    p.tuning = False
+    p.buildDesignspace(patchBlends=False, instances=True, parentParametric=True)
     # p.validateDesignspace(locations=True, mappings=True, instances=False)
     # p.validateSources()
 
     # --- normalization ---
     # p.cleanupSources(parametric=False, tuning=True, reference=False)
-    p.normalizeSources(parametric=True, tuning=False, reference=False)
+    # p.normalizeSources(parametric=False, tuning=False, reference=True)
 
     # --- project info ---
     # p.printSettings()

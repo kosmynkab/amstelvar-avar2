@@ -4,6 +4,6 @@
 	<advance width="1235"/>
 	<outline>
 		<component base="E"/>
-		<component base="ogonekcomb.case" xOffset="1248.3787231445"/>
+		<component base="ogonekcomb.case" xOffset="1136.3787231445"/>
 	</outline>
 </glyph>

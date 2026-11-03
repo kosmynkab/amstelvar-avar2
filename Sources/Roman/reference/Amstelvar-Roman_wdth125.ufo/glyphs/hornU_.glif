@@ -33,6 +33,6 @@
 			<point x="348" y="1352" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="topright" x="1869.0514285714" y="1500"/>
+	<anchor name="topright" x="1866" y="1500"/>
 	<anchor name="top" x="1103" y="1500"/>
 </glyph>

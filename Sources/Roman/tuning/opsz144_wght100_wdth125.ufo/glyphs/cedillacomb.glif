@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cedillacomb" format="2">
 	<unicode hex="0327"/>
+	<advance width="-921"/>
 	<outline>
 		<contour>
 			<point x="-421.2297973633" y="-18.1917114258" type="line"/>

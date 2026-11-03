@@ -7,8 +7,8 @@
 			<point x="114" y="-245" type="qcurve" smooth="yes"/>
 			<point x="114" y="-166"/>
 			<point x="279" y="-41"/>
-			<point x="379" y="-15" type="qcurve"/>
-			<point x="430" y="-33" type="line"/>
+			<point x="403" y="-7" type="qcurve"/>
+			<point x="454" y="-25" type="line"/>
 			<point x="331" y="-66"/>
 			<point x="218" y="-173"/>
 			<point x="218" y="-249" type="qcurve" smooth="yes"/>

@@ -20,10 +20,10 @@
 			<point x="1843.9368758155" y="1323.0048828125" type="line"/>
 			<point x="1635.9344344092" y="1357.0048828125" type="line"/>
 			<point x="1635.9344344092" y="1500" type="line"/>
-			<point x="2043.137183742" y="1500" type="line"/>
-			<point x="2044.137183742" y="864" type="line"/>
+			<point x="2044" y="1500" type="line"/>
+			<point x="2044" y="864" type="line"/>
 			<point x="2046.5129292689" y="571.2365805169" type="line" smooth="yes"/>
-			<point x="2048.4621394925" y="330.5492714618"/>
+			<point x="2048" y="331"/>
 			<point x="1664.426490769" y="-26"/>
 			<point x="1179.445573444" y="-26" type="qcurve" smooth="yes"/>
 			<point x="689.055067009" y="-26"/>
@@ -33,6 +33,6 @@
 			<point x="287.9970703125" y="1323.0048828125" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="topright" x="1827.230140285" y="1500"/>
+	<anchor name="topright" x="2044" y="1500"/>
 	<anchor name="top" x="1259.5427435388" y="1500"/>
 </glyph>

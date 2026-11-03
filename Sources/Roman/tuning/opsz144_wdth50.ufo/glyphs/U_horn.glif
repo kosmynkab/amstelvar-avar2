@@ -4,6 +4,6 @@
 	<advance width="1917"/>
 	<outline>
 		<component base="hornU"/>
-		<component base="horncomb.case" xOffset="1681.5824584961"/>
+		<component base="horncomb.case" xOffset="1680.5824584961"/>
 	</outline>
 </glyph>

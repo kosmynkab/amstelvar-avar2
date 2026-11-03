@@ -26,7 +26,7 @@
 			<point x="20" y="1178" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="bottom" x="558.5" y="0"/>
+	<anchor name="bottom" x="558" y="14"/>
 	<anchor name="center" x="558.5" y="750"/>
 	<anchor name="top" x="558.5" y="1500"/>
 	<anchor name="cy_descender" x="558" y="0"/>

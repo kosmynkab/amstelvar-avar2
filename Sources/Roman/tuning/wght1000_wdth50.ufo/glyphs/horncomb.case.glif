@@ -24,6 +24,6 @@
 			<point x="-238" y="1345.5171508789" type="qcurve"/>
 		</contour>
 	</outline>
-	<anchor name="_topright" x="-207" y="1500"/>
+	<anchor name="_topright" x="-206" y="1500"/>
 	<anchor name="topright" x="-206" y="1790"/>
 </glyph>

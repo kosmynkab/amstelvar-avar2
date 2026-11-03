@@ -20,7 +20,7 @@
 			<point x="1728" y="1302" type="line"/>
 			<point x="1470" y="1336" type="line"/>
 			<point x="1470" y="1500" type="line"/>
-			<point x="1905" y="1500" type="line"/>
+			<point x="1907" y="1500" type="line"/>
 			<point x="1907" y="864" type="line"/>
 			<point x="1910" y="618" type="line" smooth="yes"/>
 			<point x="1913" y="357"/>
@@ -33,6 +33,6 @@
 			<point x="368" y="1302" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="topright" x="1910.0523255814" y="1500"/>
+	<anchor name="topright" x="1907" y="1500"/>
 	<anchor name="top" x="1139" y="1500"/>
 </glyph>

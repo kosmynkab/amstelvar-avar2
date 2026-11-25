@@ -4,16 +4,16 @@
 		<contour>
 			<point x="-251" y="1845" type="qcurve" smooth="yes"/>
 			<point x="-251" y="1868"/>
-			<point x="-214" y="1909"/>
-			<point x="-190" y="1909" type="qcurve" smooth="yes"/>
-			<point x="-165" y="1909"/>
+			<point x="-217" y="1909"/>
+			<point x="-183" y="1909" type="qcurve" smooth="yes"/>
+			<point x="-162" y="1909"/>
 			<point x="-128" y="1890"/>
 			<point x="-110" y="1870" type="qcurve" smooth="yes"/>
 			<point x="99" y="1616" type="line"/>
 			<point x="85" y="1600" type="line"/>
 			<point x="-194" y="1774" type="line" smooth="yes"/>
 			<point x="-213" y="1786"/>
-			<point x="-251" y="1823"/>
+			<point x="-251" y="1818"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="1500"/>

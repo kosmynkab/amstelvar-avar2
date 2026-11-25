@@ -2,7 +2,7 @@
 <glyph name="acutecomb.case" format="2">
 	<outline>
 		<contour>
-			<point x="344" y="2035" type="qcurve" smooth="yes"/>
+			<point x="344" y="2051" type="qcurve" smooth="yes"/>
 			<point x="344" y="1954"/>
 			<point x="231" y="1857"/>
 			<point x="170" y="1838" type="qcurve" smooth="yes"/>
@@ -12,8 +12,8 @@
 			<point x="-76" y="2167"/>
 			<point x="52" y="2259"/>
 			<point x="127" y="2259" type="qcurve" smooth="yes"/>
-			<point x="215" y="2259"/>
-			<point x="344" y="2119"/>
+			<point x="242" y="2259"/>
+			<point x="344" y="2129"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="1500"/>

@@ -2,34 +2,34 @@
 <glyph name="ringcomb-stack.case" format="2">
 	<outline>
 		<contour>
-			<point x="-347" y="2001" type="qcurve" smooth="yes"/>
-			<point x="-347" y="2144"/>
-			<point x="-148" y="2331"/>
-			<point x="0" y="2331" type="qcurve" smooth="yes"/>
-			<point x="148" y="2331"/>
-			<point x="347" y="2144"/>
-			<point x="347" y="2001" type="qcurve" smooth="yes"/>
-			<point x="347" y="1858"/>
-			<point x="148" y="1670"/>
-			<point x="0" y="1670" type="qcurve" smooth="yes"/>
-			<point x="-148" y="1670"/>
-			<point x="-347" y="1858"/>
+			<point x="-326" y="2006" type="qcurve" smooth="yes"/>
+			<point x="-326" y="2131"/>
+			<point x="-131" y="2313"/>
+			<point x="1" y="2313" type="qcurve" smooth="yes"/>
+			<point x="132" y="2313"/>
+			<point x="327" y="2131"/>
+			<point x="327" y="2006" type="qcurve" smooth="yes"/>
+			<point x="327" y="1883"/>
+			<point x="132" y="1700"/>
+			<point x="1" y="1700" type="qcurve" smooth="yes"/>
+			<point x="-131" y="1700"/>
+			<point x="-326" y="1883"/>
 		</contour>
 		<contour>
-			<point x="-161" y="2001" type="qcurve" smooth="yes"/>
-			<point x="-161" y="1932"/>
-			<point x="-71" y="1846"/>
-			<point x="0" y="1846" type="qcurve" smooth="yes"/>
-			<point x="74" y="1846"/>
-			<point x="160" y="1926"/>
-			<point x="160" y="2001" type="qcurve" smooth="yes"/>
-			<point x="160" y="2069"/>
-			<point x="71" y="2155"/>
-			<point x="0" y="2155" type="qcurve" smooth="yes"/>
-			<point x="-74" y="2155"/>
-			<point x="-161" y="2075"/>
+			<point x="-147" y="2005" type="qcurve" smooth="yes"/>
+			<point x="-147" y="1940"/>
+			<point x="-64" y="1857"/>
+			<point x="1" y="1857" type="qcurve" smooth="yes"/>
+			<point x="69" y="1857"/>
+			<point x="148" y="1934"/>
+			<point x="148" y="2005" type="qcurve" smooth="yes"/>
+			<point x="148" y="2072"/>
+			<point x="66" y="2156"/>
+			<point x="1" y="2156" type="qcurve" smooth="yes"/>
+			<point x="-67" y="2156"/>
+			<point x="-147" y="2078"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="1500"/>
-	<anchor name="top" x="0" y="2389"/>
+	<anchor name="top" x="0" y="2313"/>
 </glyph>

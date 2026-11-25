@@ -5,8 +5,8 @@
 	<outline>
 		<contour>
 			<point x="286.8881225586" y="621.2004394531" type="line"/>
-			<point x="259.503112793" y="753.336730957" type="line"/>
-			<point x="1013.2001953125" y="753.336730957" type="line"/>
+			<point x="259.503112793" y="747.336730957" type="line"/>
+			<point x="1013.2001953125" y="747.336730957" type="line"/>
 			<point x="984.8151855469" y="621.2004394531" type="line"/>
 		</contour>
 		<contour>
@@ -38,8 +38,8 @@
 		</contour>
 		<contour>
 			<point x="323.8881225586" y="401.2004394531" type="line"/>
-			<point x="289.503112793" y="533.336730957" type="line"/>
-			<point x="993.2001953125" y="533.336730957" type="line"/>
+			<point x="291.503112793" y="527.336730957" type="line"/>
+			<point x="993.2001953125" y="527.336730957" type="line"/>
 			<point x="964.8151855469" y="401.2004394531" type="line"/>
 		</contour>
 	</outline>

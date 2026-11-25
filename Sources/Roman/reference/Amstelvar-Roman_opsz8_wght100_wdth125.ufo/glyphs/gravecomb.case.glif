@@ -2,8 +2,8 @@
 <glyph name="gravecomb.case" format="2">
 	<outline>
 		<contour>
-			<point x="-342" y="1960" type="qcurve" smooth="yes"/>
-			<point x="-342" y="1995"/>
+			<point x="-342" y="1970" type="qcurve" smooth="yes"/>
+			<point x="-342" y="2003"/>
 			<point x="-297" y="2051"/>
 			<point x="-262" y="2051" type="qcurve" smooth="yes"/>
 			<point x="-238" y="2051"/>

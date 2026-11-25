@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaaccentcomb" format="2">
 	<unicode hex="0326"/>
+	<advance width="-337"/>
 	<outline>
 		<contour>
 			<point x="-266.838684082" y="-489.1270751953" type="line"/>

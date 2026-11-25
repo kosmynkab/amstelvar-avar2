@@ -5,8 +5,8 @@
 	<outline>
 		<contour>
 			<point x="329.0914306641" y="645.8015136719" type="line"/>
-			<point x="297.0147705078" y="820.8773193359" type="line"/>
-			<point x="861.6044311523" y="820.8773193359" type="line"/>
+			<point x="304.0147705078" y="775.8773193359" type="line"/>
+			<point x="853.6044311523" y="775.8773193359" type="line"/>
 			<point x="826.5277709961" y="645.8015136719" type="line"/>
 		</contour>
 		<contour>
@@ -37,10 +37,10 @@
 			<point x="495.0914306641" y="133.9379882812" type="line"/>
 		</contour>
 		<contour>
-			<point x="376.0914306641" y="378.9338378906" type="line"/>
-			<point x="337.0147705078" y="554.0096435547" type="line"/>
-			<point x="828.6044311523" y="554.0096435547" type="line"/>
-			<point x="793.5277709961" y="378.9338378906" type="line"/>
+			<point x="371.0914306641" y="401.9338378906" type="line"/>
+			<point x="342.0147705078" y="532.0096435547" type="line"/>
+			<point x="824.6044311523" y="532.0096435547" type="line"/>
+			<point x="797.5277709961" y="401.9338378906" type="line"/>
 		</contour>
 	</outline>
 </glyph>

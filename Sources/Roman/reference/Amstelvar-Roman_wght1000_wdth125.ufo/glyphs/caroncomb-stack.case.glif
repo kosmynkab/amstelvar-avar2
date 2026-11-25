@@ -2,18 +2,18 @@
 <glyph name="caroncomb-stack.case" format="2">
 	<outline>
 		<contour>
-			<point x="0" y="1608" type="qcurve" smooth="yes"/>
-			<point x="-31" y="1608"/>
-			<point x="-75.7777777778" y="1649.2962962963"/>
-			<point x="-100" y="1672.7407407407" type="qcurve" smooth="yes"/>
-			<point x="-330.6296296296" y="1933.6666666667" type="line"/>
-			<point x="-264.5925925926" y="2009.1111111111" type="line"/>
-			<point x="0" y="1911" type="line"/>
-			<point x="267.5185185185" y="2013.6296296296" type="line"/>
-			<point x="330.1111111111" y="1933.6666666667" type="line"/>
-			<point x="100" y="1674.7407407407" type="line" smooth="yes"/>
-			<point x="76.7407407407" y="1648.6666666667"/>
-			<point x="31" y="1608"/>
+			<point x="0" y="1612.8142700195" type="qcurve" smooth="yes"/>
+			<point x="-51.1855805938" y="1612.8142700195"/>
+			<point x="-138.4712178217" y="1661.0999461986"/>
+			<point x="-188.7424359089" y="1703.5282773618" type="qcurve" smooth="yes"/>
+			<point x="-491.4573645168" y="2001.9991861979" type="line"/>
+			<point x="-427.9560808499" y="2075.7151687966" type="line"/>
+			<point x="0" y="1903.3151300604" type="line"/>
+			<point x="437.5132455932" y="2082.0007233796" type="line"/>
+			<point x="489.1860994163" y="1993.9991861979" type="line"/>
+			<point x="188.7424359089" y="1704.2568540219" type="line" smooth="yes"/>
+			<point x="141.2137602139" y="1658.2855392491"/>
+			<point x="51.1855805938" y="1612.8142700195"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="1500"/>

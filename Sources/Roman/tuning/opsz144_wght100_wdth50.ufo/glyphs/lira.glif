@@ -46,14 +46,14 @@
 		</contour>
 		<contour>
 			<point x="148.1217651367" y="598.4606933594" type="line"/>
-			<point x="123.485534668" y="732.30859375" type="line"/>
-			<point x="885.7963256836" y="732.30859375" type="line"/>
+			<point x="122.485534668" y="729.30859375" type="line"/>
+			<point x="884.7963256836" y="729.30859375" type="line"/>
 			<point x="849.8348388672" y="598.4606933594" type="line"/>
 		</contour>
 		<contour>
 			<point x="132.1217651367" y="773.4606933594" type="line"/>
-			<point x="107.485534668" y="906.30859375" type="line"/>
-			<point x="901.8168334961" y="906.30859375" type="line"/>
+			<point x="106.485534668" y="904.30859375" type="line"/>
+			<point x="900.8168334961" y="904.30859375" type="line"/>
 			<point x="865.3536376953" y="773.4606933594" type="line"/>
 		</contour>
 	</outline>

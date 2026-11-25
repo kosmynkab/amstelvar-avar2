@@ -39,10 +39,10 @@
 			<point x="626.4268798828" y="0" type="line"/>
 		</contour>
 		<contour>
-			<point x="100.3548583984" y="322.41796875" type="line"/>
+			<point x="99.3548583984" y="333.41796875" type="line"/>
 			<point x="81.5854492188" y="439.9572753906" type="line"/>
 			<point x="722.3256835938" y="449.9572753906" type="line"/>
-			<point x="679.2043457031" y="306.2637939453" type="line"/>
+			<point x="683.2043457031" y="317.2637939453" type="line"/>
 		</contour>
 	</outline>
 </glyph>

@@ -2,22 +2,22 @@
 <glyph name="brevecomb-stack" format="2">
 	<outline>
 		<contour>
-			<point x="331" y="1520" type="qcurve"/>
-			<point x="405" y="1467" type="line"/>
-			<point x="379" y="1374"/>
-			<point x="156" y="1200"/>
-			<point x="1" y="1200" type="qcurve" smooth="yes"/>
-			<point x="-154" y="1200"/>
-			<point x="-368" y="1354"/>
-			<point x="-405" y="1464" type="qcurve"/>
-			<point x="-326" y="1521" type="line"/>
-			<point x="-278" y="1454"/>
-			<point x="-114" y="1349"/>
-			<point x="2" y="1349" type="qcurve" smooth="yes"/>
-			<point x="122" y="1349"/>
-			<point x="289" y="1456"/>
+			<point x="329" y="1470" type="qcurve"/>
+			<point x="403" y="1417" type="line"/>
+			<point x="377" y="1324"/>
+			<point x="154" y="1150"/>
+			<point x="-1" y="1150" type="qcurve" smooth="yes"/>
+			<point x="-156" y="1150"/>
+			<point x="-370" y="1304"/>
+			<point x="-407" y="1414" type="qcurve"/>
+			<point x="-328" y="1471" type="line"/>
+			<point x="-280" y="1404"/>
+			<point x="-116" y="1299"/>
+			<point x="0" y="1299" type="qcurve" smooth="yes"/>
+			<point x="120" y="1299"/>
+			<point x="287" y="1406"/>
 		</contour>
 	</outline>
-	<anchor name="top" x="0" y="1480"/>
-	<anchor name="_top" x="0" y="1052"/>
+	<anchor name="_top" x="0" y="1000"/>
+	<anchor name="top" x="0" y="1471"/>
 </glyph>

@@ -2,20 +2,20 @@
 <glyph name="dotaccentcomb.case" format="2">
 	<outline>
 		<contour>
-			<point x="-65.9249216604" y="1706.5358320635" type="qcurve" smooth="yes"/>
-			<point x="-65.9249216604" y="1738.568466153"/>
-			<point x="-31.2612892235" y="1772.2738120279"/>
-			<point x="1" y="1772.2738120279" type="qcurve" smooth="yes"/>
-			<point x="31.8721996266" y="1772.2738120279"/>
-			<point x="67.9249216604" y="1736.2210899939"/>
-			<point x="67.9249216604" y="1706.5358320635" type="qcurve" smooth="yes"/>
-			<point x="67.9249216604" y="1674.7053458749"/>
-			<point x="35.2612892235" y="1640"/>
-			<point x="1" y="1640" type="qcurve" smooth="yes"/>
-			<point x="-30.1293145818" y="1640"/>
-			<point x="-65.9249216604" y="1675.580205561"/>
+			<point x="-161.8664550781" y="1703.4356689453" type="qcurve" smooth="yes"/>
+			<point x="-161.8664550781" y="1725.4765014648"/>
+			<point x="-79.1112060547" y="1766.8734741211"/>
+			<point x="0" y="1766.8734741211" type="qcurve" smooth="yes"/>
+			<point x="80.6804199219" y="1766.8734741211"/>
+			<point x="161.8664550781" y="1730.3291625977"/>
+			<point x="161.8664550781" y="1703.4356689453" type="qcurve" smooth="yes"/>
+			<point x="161.8664550781" y="1679.7552490234"/>
+			<point x="79.1112060547" y="1640"/>
+			<point x="0" y="1640" type="qcurve" smooth="yes"/>
+			<point x="-81.5375366211" y="1640"/>
+			<point x="-161.8664550781" y="1676.4718017578"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="1500"/>
-	<anchor name="top" x="0" y="1910"/>
+	<anchor name="top" x="0" y="1934"/>
 </glyph>

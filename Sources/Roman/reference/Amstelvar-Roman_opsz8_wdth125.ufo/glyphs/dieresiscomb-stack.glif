@@ -30,6 +30,7 @@
 			<point x="-378" y="1341"/>
 		</contour>
 	</outline>
-	<anchor name="_top" x="0" y="1053"/>
-	<anchor name="top" x="0" y="1552"/>
+	<anchor name="_GRKtop" x="0" y="1050"/>
+	<anchor name="_top" x="0" y="1050"/>
+	<anchor name="top" x="0" y="1534"/>
 </glyph>

@@ -2,18 +2,18 @@
 <glyph name="acutecomb.case" format="2">
 	<outline>
 		<contour>
-			<point x="367.5975668618" y="1989.8006203391" type="qcurve" smooth="yes"/>
-			<point x="367.5978135634" y="1914.6004442091"/>
-			<point x="250.9977430041" y="1803.0001841176"/>
-			<point x="159.3977474308" y="1769.0000419868" type="qcurve" smooth="yes"/>
-			<point x="-96.998666702" y="1685.0004638672" type="line"/>
-			<point x="-184.9981796158" y="1772.999229079" type="line"/>
-			<point x="-129.4028790057" y="1907.5990833995" type="line" smooth="yes"/>
-			<point x="-71.003041002" y="2000.9995601689"/>
-			<point x="80.1968280743" y="2177.8001968734"/>
-			<point x="163.1969675222" y="2177.8003855275" type="qcurve" smooth="yes"/>
-			<point x="253.7970093749" y="2177.8005161342"/>
-			<point x="367.5973782077" y="2056.6006866059"/>
+			<point x="368" y="1990" type="qcurve" smooth="yes"/>
+			<point x="368" y="1913"/>
+			<point x="251" y="1803"/>
+			<point x="159" y="1769" type="qcurve" smooth="yes"/>
+			<point x="-97" y="1685" type="line"/>
+			<point x="-185" y="1773" type="line"/>
+			<point x="-88" y="1985" type="line" smooth="yes"/>
+			<point x="-38" y="2093"/>
+			<point x="83" y="2178"/>
+			<point x="153" y="2178" type="qcurve" smooth="yes"/>
+			<point x="263" y="2178"/>
+			<point x="368" y="2064"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="1500"/>

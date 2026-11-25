@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tbar" format="2">
 	<unicode hex="0167"/>
-	<advance width="525"/>
+	<advance width="549"/>
 	<outline>
 		<component base="t"/>
 		<component base="horizontalbarlc" xOffset="113.6194458008" yOffset="-93"/>

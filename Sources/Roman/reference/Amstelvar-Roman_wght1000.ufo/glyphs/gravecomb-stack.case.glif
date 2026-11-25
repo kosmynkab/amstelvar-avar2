@@ -2,21 +2,21 @@
 <glyph name="gravecomb-stack.case" format="2">
 	<outline>
 		<contour>
-			<point x="-336.4001726423" y="1823.7998918805" type="qcurve" smooth="yes"/>
-			<point x="-350.4001726423" y="1887.9999564034"/>
-			<point x="-264.6000191825" y="2031.2000906808"/>
-			<point x="-176.9999651227" y="2048.2000906808" type="qcurve" smooth="yes"/>
-			<point x="-95.9998692104" y="2064.2000906808"/>
-			<point x="84.0003417969" y="1914.9997052874"/>
-			<point x="159.4003104073" y="1838.5995622907" type="qcurve" smooth="yes"/>
-			<point x="281.9995727539" y="1772.9995483398" type="line"/>
-			<point x="227.0004516602" y="1661.0004638672" type="line"/>
-			<point x="-82.1997872489" y="1644.9997488839" type="line" smooth="yes"/>
-			<point x="-181.1999407087" y="1661.7996930804"/>
-			<point x="-322.4001726423" y="1750.9997140067"/>
+			<point x="-354" y="1984" type="qcurve" smooth="yes"/>
+			<point x="-354" y="2069"/>
+			<point x="-241" y="2185"/>
+			<point x="-149.9966128842" y="2185.2004099416" type="qcurve" smooth="yes"/>
+			<point x="-64" y="2185"/>
+			<point x="45" y="2087"/>
+			<point x="88" y="2003" type="qcurve" smooth="yes"/>
+			<point x="205.9985569241" y="1771.999229079" type="line"/>
+			<point x="117.9990294984" y="1684.0004638672" type="line"/>
+			<point x="-170" y="1789" type="line" smooth="yes"/>
+			<point x="-265" y="1824"/>
+			<point x="-354" y="1921"/>
 		</contour>
 	</outline>
+	<anchor name="_topright" x="0" y="1500"/>
 	<anchor name="_top" x="0" y="1500"/>
 	<anchor name="top" x="0" y="2086"/>
-	<anchor name="_topright" x="0" y="1500"/>
 </glyph>

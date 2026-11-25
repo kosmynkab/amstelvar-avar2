@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="esdescendercyr" format="2">
 	<unicode hex="04AB"/>
-	<advance width="1013"/>
+	<advance width="982"/>
 	<outline>
 		<component base="c"/>
-		<component base="cedillacomb" xOffset="659.2393321609"/>
+		<component base="cedillacomb" xOffset="563.7136873621"/>
 	</outline>
 </glyph>

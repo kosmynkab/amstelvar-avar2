@@ -18,6 +18,6 @@
 			<point x="242" y="1476"/>
 		</contour>
 	</outline>
-	<anchor name="top" x="0" y="1480"/>
-	<anchor name="_top" x="0" y="1052"/>
+	<anchor name="_top" x="0" y="1050"/>
+	<anchor name="top" x="0" y="1539"/>
 </glyph>

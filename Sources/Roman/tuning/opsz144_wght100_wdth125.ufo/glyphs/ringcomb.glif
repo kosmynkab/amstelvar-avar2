@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ringcomb" format="2">
 	<unicode hex="030A"/>
+	<advance width="-921"/>
 	<outline>
 		<contour>
 			<point x="-717.0676269531" y="1221" type="qcurve" smooth="yes"/>

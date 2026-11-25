@@ -2,18 +2,18 @@
 <glyph name="gravecomb.case" format="2">
 	<outline>
 		<contour>
-			<point x="-180" y="1815" type="qcurve" smooth="yes"/>
-			<point x="-180" y="1837"/>
-			<point x="-149" y="1874"/>
-			<point x="-125" y="1874" type="qcurve" smooth="yes"/>
-			<point x="-108" y="1874"/>
+			<point x="-183" y="1814" type="qcurve" smooth="yes"/>
+			<point x="-183" y="1836"/>
+			<point x="-148" y="1874"/>
+			<point x="-122" y="1874" type="qcurve" smooth="yes"/>
+			<point x="-101" y="1874"/>
 			<point x="-73" y="1854"/>
 			<point x="-60" y="1832" type="qcurve" smooth="yes"/>
 			<point x="84" y="1598" type="line"/>
 			<point x="75" y="1587" type="line"/>
-			<point x="-152" y="1757" type="line" smooth="yes"/>
-			<point x="-169" y="1770"/>
-			<point x="-180" y="1797"/>
+			<point x="-148" y="1754" type="line" smooth="yes"/>
+			<point x="-167" y="1768"/>
+			<point x="-183" y="1798"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="1500"/>

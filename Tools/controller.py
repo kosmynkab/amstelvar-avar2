@@ -452,7 +452,7 @@ if __name__ == '__main__':
     # glyphNames = ['kgreenlandic']
     # glyphNames = list(p.defaultFont.glyphOrder)
     # glyphNames = 'Acircumflexgrave Ecircumflexgrave Ocircumflexgrave acircumflexgrave ecircumflexgrave ocircumflexgrave'.split()
-    # glyphNames = parseGString(p.defaultFont, '/ae/OE')
+    glyphNames = parseGString(p.defaultFont, '/brokenbar/greater/greaterequal/less/lessequal')
     # glyphNames = p.smartSets['lowercase']['latin'] + p.smartSets['uppercase']['latin']
     # glyphNames = [g for g in glyphNames if g not in p.smartSets['Latin 1']]
     # glyphNames = [f'{g}.rvrn' for g in p.smartSets['BARS']]
@@ -500,8 +500,8 @@ if __name__ == '__main__':
 
     # --- normalization ---
     # p.roundSources(parametric=True, tuning=True, reference=True)
-    # p.cleanupSources(parametric=True, tuning=True, reference=True)
-    p.normalizeSources(parametric=False, tuning=False, reference=True)
+    p.cleanupSources(parametric=True, tuning=True, reference=True)
+    p.normalizeSources(parametric=True, tuning=True, reference=True)
 
     # --- project info ---
     # p.printSettings()

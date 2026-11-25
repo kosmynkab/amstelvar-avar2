@@ -11,13 +11,13 @@
 			<point x="238.8798828125" y="840.4028320312" type="line"/>
 			<point x="72" y="870.4028320312" type="line"/>
 			<point x="72" y="966.3969726562" type="line"/>
-			<point x="352.00390625" y="999.3969726562" type="line"/>
-			<point x="399.00390625" y="999.3969726562" type="line"/>
-			<point x="422.00390625" y="960.3969726562" type="line"/>
-			<point x="415.00390625" y="548.9879150391" type="line"/>
-			<point x="417.00390625" y="115.994140625" type="line"/>
-			<point x="575.00390625" y="80.994140625" type="line"/>
-			<point x="575.00390625" y="0" type="line"/>
+			<point x="352.0977172852" y="999.3969726562" type="line"/>
+			<point x="399.0977172852" y="999.3969726562" type="line"/>
+			<point x="422.0977172852" y="960.3969726562" type="line"/>
+			<point x="415.0977172852" y="548.9879150391" type="line"/>
+			<point x="417.0977172852" y="115.994140625" type="line"/>
+			<point x="575.0977172852" y="80.994140625" type="line"/>
+			<point x="575.0977172852" y="0" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="bottom" x="320" y="0"/>

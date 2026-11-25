@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idotless" format="2">
 	<unicode hex="0131"/>
-	<advance width="587"/>
+	<advance width="588"/>
 	<outline>
 		<contour>
 			<point x="80.5982666016" y="0" type="line"/>
@@ -11,13 +11,13 @@
 			<point x="232.1676025391" y="850.8603515625" type="line"/>
 			<point x="77.5982666016" y="880.8603515625" type="line"/>
 			<point x="77.5982666016" y="969.3774414062" type="line"/>
-			<point x="288.0953369141" y="1005.8120117188" type="line"/>
-			<point x="366.0953369141" y="1005.8120117188" type="line"/>
-			<point x="409.0953369141" y="961.8120117188" type="line"/>
-			<point x="403.0953369141" y="571.3371582031" type="line"/>
-			<point x="405.0953369141" y="116.00390625" type="line"/>
-			<point x="536.5845947266" y="81.00390625" type="line"/>
-			<point x="536.5845947266" y="0" type="line"/>
+			<point x="288.8675537109" y="1005.8120117188" type="line"/>
+			<point x="366.8675537109" y="1005.8120117188" type="line"/>
+			<point x="409.8675537109" y="961.8120117188" type="line"/>
+			<point x="403.8675537109" y="571.3371582031" type="line"/>
+			<point x="405.8675537109" y="116.00390625" type="line"/>
+			<point x="537.3568115234" y="81.00390625" type="line"/>
+			<point x="537.3568115234" y="0" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="bottom" x="320" y="0"/>

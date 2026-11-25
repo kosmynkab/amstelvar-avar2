@@ -4,6 +4,6 @@
 	<advance width="721"/>
 	<outline>
 		<component base="s"/>
-		<component base="commaaccentcomb" xOffset="382"/>
+		<component base="commaaccentcomb" xOffset="365"/>
 	</outline>
 </glyph>

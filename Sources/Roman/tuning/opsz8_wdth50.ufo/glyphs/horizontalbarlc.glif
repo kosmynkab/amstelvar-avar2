@@ -3,12 +3,12 @@
 	<advance width="781"/>
 	<outline>
 		<contour>
-			<point x="369.7406005859" y="645" type="line"/>
+			<point x="369.7563476562" y="635" type="line"/>
 			<point x="115" y="635" type="line"/>
 			<point x="125" y="763" type="line"/>
-			<point x="403.7406005859" y="753" type="line"/>
-			<point x="698.3519287109" y="763" type="line"/>
-			<point x="698.3519287109" y="635" type="line"/>
+			<point x="403.7563476562" y="763" type="line"/>
+			<point x="698.4372558594" y="763" type="line"/>
+			<point x="698.4372558594" y="635" type="line"/>
 		</contour>
 	</outline>
 </glyph>

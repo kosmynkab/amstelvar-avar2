@@ -4,6 +4,6 @@
 	<advance width="935"/>
 	<outline>
 		<component base="idotless"/>
-		<component base="idot" xOffset="469.3137156248" yOffset="-0.0006177052"/>
+		<component base="idot" xOffset="479.3452708006" yOffset="50.6024096386"/>
 	</outline>
 </glyph>

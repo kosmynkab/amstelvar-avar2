@@ -3,20 +3,20 @@
 	<unicode hex="0307"/>
 	<outline>
 		<contour>
-			<point x="-243" y="1510" type="qcurve" smooth="yes"/>
-			<point x="-243" y="1617"/>
-			<point x="-112" y="1750"/>
-			<point x="0" y="1750" type="qcurve" smooth="yes"/>
-			<point x="112" y="1750"/>
-			<point x="243" y="1616"/>
-			<point x="243" y="1510" type="qcurve" smooth="yes"/>
-			<point x="243" y="1404"/>
-			<point x="107" y="1270"/>
-			<point x="0" y="1270" type="qcurve" smooth="yes"/>
-			<point x="-107" y="1270"/>
-			<point x="-243" y="1403"/>
+			<point x="-303" y="1389" type="qcurve" smooth="yes"/>
+			<point x="-303" y="1486"/>
+			<point x="-147" y="1614"/>
+			<point x="0" y="1614" type="qcurve" smooth="yes"/>
+			<point x="147" y="1614"/>
+			<point x="303" y="1486"/>
+			<point x="303" y="1389" type="qcurve" smooth="yes"/>
+			<point x="303" y="1292"/>
+			<point x="147" y="1164"/>
+			<point x="0" y="1164" type="qcurve" smooth="yes"/>
+			<point x="-147" y="1164"/>
+			<point x="-303" y="1292"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="1100"/>
-	<anchor name="top" x="0" y="1750"/>
+	<anchor name="top" x="0" y="1614"/>
 </glyph>

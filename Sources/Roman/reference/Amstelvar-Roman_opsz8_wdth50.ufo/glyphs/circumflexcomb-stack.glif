@@ -17,6 +17,6 @@
 		</contour>
 	</outline>
 	<anchor name="topright" x="312" y="1350"/>
-	<anchor name="_top" x="0" y="1053"/>
-	<anchor name="top" x="0" y="1561"/>
+	<anchor name="_top" x="0" y="1050"/>
+	<anchor name="top" x="0" y="1635"/>
 </glyph>

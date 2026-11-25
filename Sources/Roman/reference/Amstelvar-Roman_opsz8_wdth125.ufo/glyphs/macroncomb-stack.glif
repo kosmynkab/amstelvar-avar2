@@ -2,12 +2,12 @@
 <glyph name="macroncomb-stack" format="2">
 	<outline>
 		<contour>
-			<point x="-396" y="1254" type="line"/>
-			<point x="-396" y="1445" type="line"/>
-			<point x="396" y="1445" type="line"/>
-			<point x="396" y="1254" type="line"/>
+			<point x="-412" y="1270" type="line"/>
+			<point x="-412" y="1461" type="line"/>
+			<point x="380" y="1461" type="line"/>
+			<point x="380" y="1270" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="_top" x="0" y="1053"/>
-	<anchor name="top" x="0" y="1661"/>
+	<anchor name="_top" x="0" y="1050"/>
+	<anchor name="top" x="0" y="1461"/>
 </glyph>

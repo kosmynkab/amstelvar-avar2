@@ -2,20 +2,20 @@
 <glyph name="dotaccentcomb-stack" format="2">
 	<outline>
 		<contour>
-			<point x="-142" y="1407" type="qcurve" smooth="yes"/>
-			<point x="-142" y="1471"/>
-			<point x="-70" y="1548"/>
-			<point x="0" y="1548" type="qcurve" smooth="yes"/>
-			<point x="65" y="1548"/>
-			<point x="142" y="1469"/>
-			<point x="142" y="1407" type="qcurve" smooth="yes"/>
-			<point x="142" y="1344"/>
-			<point x="70" y="1270"/>
-			<point x="0" y="1270" type="qcurve" smooth="yes"/>
-			<point x="-66" y="1270"/>
-			<point x="-142" y="1347"/>
+			<point x="-147" y="1357" type="qcurve" smooth="yes"/>
+			<point x="-147" y="1418"/>
+			<point x="-71" y="1489"/>
+			<point x="0" y="1489" type="qcurve" smooth="yes"/>
+			<point x="71" y="1489"/>
+			<point x="147" y="1418"/>
+			<point x="147" y="1357" type="qcurve" smooth="yes"/>
+			<point x="147" y="1296"/>
+			<point x="71" y="1225"/>
+			<point x="0" y="1225" type="qcurve" smooth="yes"/>
+			<point x="-71" y="1225"/>
+			<point x="-147" y="1296"/>
 		</contour>
 	</outline>
-	<anchor name="top" x="0" y="1572"/>
-	<anchor name="_top" x="0" y="1052"/>
+	<anchor name="_top" x="0" y="1050"/>
+	<anchor name="top" x="0" y="1489"/>
 </glyph>

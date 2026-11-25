@@ -2,21 +2,21 @@
 <glyph name="acutecomb-stack" format="2">
 	<outline>
 		<contour>
-			<point x="334" y="1515" type="qcurve" smooth="yes"/>
-			<point x="334" y="1468"/>
-			<point x="299" y="1422"/>
-			<point x="258" y="1393" type="qcurve" smooth="yes"/>
-			<point x="-40" y="1181" type="line"/>
-			<point x="-134" y="1287" type="line"/>
-			<point x="77" y="1514" type="line" smooth="yes"/>
-			<point x="114" y="1553"/>
-			<point x="185" y="1604"/>
-			<point x="222" y="1604" type="qcurve" smooth="yes"/>
-			<point x="271" y="1604"/>
-			<point x="334" y="1550"/>
+			<point x="242" y="1604" type="qcurve" smooth="yes"/>
+			<point x="242" y="1557"/>
+			<point x="207" y="1511"/>
+			<point x="166" y="1482" type="qcurve" smooth="yes"/>
+			<point x="-132" y="1270" type="line"/>
+			<point x="-226" y="1376" type="line"/>
+			<point x="-15" y="1603" type="line" smooth="yes"/>
+			<point x="22" y="1642"/>
+			<point x="93" y="1693"/>
+			<point x="130" y="1693" type="qcurve" smooth="yes"/>
+			<point x="179" y="1693"/>
+			<point x="242" y="1639"/>
 		</contour>
 	</outline>
-	<anchor name="_top" x="0" y="1053"/>
-	<anchor name="top" x="0" y="1561"/>
-	<anchor name="_topright" x="0" y="1052"/>
+	<anchor name="_topright" x="0" y="1050"/>
+	<anchor name="_top" x="0" y="1050"/>
+	<anchor name="top" x="0" y="1693"/>
 </glyph>

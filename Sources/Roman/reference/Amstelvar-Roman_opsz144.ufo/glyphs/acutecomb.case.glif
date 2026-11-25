@@ -2,8 +2,8 @@
 <glyph name="acutecomb.case" format="2">
 	<outline>
 		<contour>
-			<point x="189" y="1851" type="qcurve" smooth="yes"/>
-			<point x="189" y="1828"/>
+			<point x="189" y="1847" type="qcurve" smooth="yes"/>
+			<point x="189" y="1827"/>
 			<point x="174" y="1798"/>
 			<point x="155" y="1784" type="qcurve" smooth="yes"/>
 			<point x="-84" y="1600" type="line"/>
@@ -12,7 +12,7 @@
 			<point x="68" y="1884"/>
 			<point x="105" y="1908"/>
 			<point x="131" y="1908" type="qcurve" smooth="yes"/>
-			<point x="154" y="1908"/>
+			<point x="157" y="1908"/>
 			<point x="189" y="1872"/>
 		</contour>
 	</outline>

@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlautcomb-stack.case" format="2">
+	<outline>
+		<component base="hungarumlautcomb.case"/>
+	</outline>
 </glyph>

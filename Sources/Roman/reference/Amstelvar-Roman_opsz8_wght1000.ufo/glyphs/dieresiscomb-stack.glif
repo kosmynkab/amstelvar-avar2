@@ -2,34 +2,35 @@
 <glyph name="dieresiscomb-stack" format="2">
 	<outline>
 		<contour>
-			<point x="67" y="1385" type="qcurve" smooth="yes"/>
-			<point x="67" y="1465"/>
-			<point x="153" y="1550"/>
-			<point x="234" y="1550" type="qcurve" smooth="yes"/>
-			<point x="311" y="1550"/>
-			<point x="401" y="1458"/>
-			<point x="401" y="1385" type="qcurve" smooth="yes"/>
-			<point x="401" y="1305"/>
-			<point x="317" y="1220"/>
-			<point x="234" y="1220" type="qcurve" smooth="yes"/>
-			<point x="157" y="1220"/>
-			<point x="67" y="1309"/>
+			<point x="67" y="1435" type="qcurve" smooth="yes"/>
+			<point x="67" y="1515"/>
+			<point x="153" y="1600"/>
+			<point x="234" y="1600" type="qcurve" smooth="yes"/>
+			<point x="311" y="1600"/>
+			<point x="401" y="1508"/>
+			<point x="401" y="1435" type="qcurve" smooth="yes"/>
+			<point x="401" y="1355"/>
+			<point x="317" y="1270"/>
+			<point x="234" y="1270" type="qcurve" smooth="yes"/>
+			<point x="157" y="1270"/>
+			<point x="67" y="1359"/>
 		</contour>
 		<contour>
-			<point x="-401" y="1385" type="qcurve" smooth="yes"/>
-			<point x="-401" y="1465"/>
-			<point x="-316" y="1550"/>
-			<point x="-234" y="1550" type="qcurve" smooth="yes"/>
-			<point x="-157" y="1550"/>
-			<point x="-67" y="1458"/>
-			<point x="-67" y="1385" type="qcurve" smooth="yes"/>
-			<point x="-67" y="1305"/>
-			<point x="-152" y="1220"/>
-			<point x="-234" y="1220" type="qcurve" smooth="yes"/>
-			<point x="-311" y="1220"/>
-			<point x="-401" y="1309"/>
+			<point x="-401" y="1435" type="qcurve" smooth="yes"/>
+			<point x="-401" y="1515"/>
+			<point x="-316" y="1600"/>
+			<point x="-234" y="1600" type="qcurve" smooth="yes"/>
+			<point x="-157" y="1600"/>
+			<point x="-67" y="1508"/>
+			<point x="-67" y="1435" type="qcurve" smooth="yes"/>
+			<point x="-67" y="1355"/>
+			<point x="-152" y="1270"/>
+			<point x="-234" y="1270" type="qcurve" smooth="yes"/>
+			<point x="-311" y="1270"/>
+			<point x="-401" y="1359"/>
 		</contour>
 	</outline>
-	<anchor name="_top" x="0" y="1053"/>
-	<anchor name="top" x="0" y="1555"/>
+	<anchor name="_GRKtop" x="0" y="1100"/>
+	<anchor name="_top" x="0" y="1100"/>
+	<anchor name="top" x="0" y="1600"/>
 </glyph>

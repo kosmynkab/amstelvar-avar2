@@ -4,6 +4,6 @@
 	<advance width="1045"/>
 	<outline>
 		<component base="I"/>
-		<component base="dotaccentcomb.case" xOffset="522.1904655916"/>
+		<component base="dotaccentcomb.case" xOffset="519.8208366854"/>
 	</outline>
 </glyph>

@@ -1,4 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlautcomb-stack" format="2">
-	<advance width="500"/>
+	<outline>
+		<contour>
+			<point x="72" y="1187" type="qcurve" smooth="yes"/>
+			<point x="72" y="1170"/>
+			<point x="59" y="1144"/>
+			<point x="48" y="1134" type="qcurve" smooth="yes"/>
+			<point x="-111" y="992" type="line"/>
+			<point x="-121" y="1000" type="line"/>
+			<point x="-32" y="1195" type="line" smooth="yes"/>
+			<point x="-24" y="1213"/>
+			<point x="3" y="1235"/>
+			<point x="18" y="1235" type="qcurve" smooth="yes"/>
+			<point x="41" y="1235"/>
+			<point x="72" y="1205"/>
+		</contour>
+		<contour>
+			<point x="236" y="1187" type="qcurve" smooth="yes"/>
+			<point x="236" y="1170"/>
+			<point x="223" y="1144"/>
+			<point x="212" y="1134" type="qcurve" smooth="yes"/>
+			<point x="53" y="992" type="line"/>
+			<point x="43" y="1000" type="line"/>
+			<point x="132" y="1195" type="line" smooth="yes"/>
+			<point x="140" y="1213"/>
+			<point x="167" y="1235"/>
+			<point x="182" y="1235" type="qcurve" smooth="yes"/>
+			<point x="205" y="1235"/>
+			<point x="236" y="1205"/>
+		</contour>
+	</outline>
+	<anchor name="_topright" x="0" y="920"/>
+	<anchor name="_top" x="0" y="920"/>
+	<anchor name="top" x="0" y="1235"/>
 </glyph>

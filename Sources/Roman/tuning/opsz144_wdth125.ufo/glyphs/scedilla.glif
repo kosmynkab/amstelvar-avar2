@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scedilla" format="2">
 	<unicode hex="015F"/>
-	<advance width="1246"/>
+	<advance width="967"/>
 	<outline>
 		<component base="s"/>
-		<component base="cedillacomb" xOffset="853.4719848633"/>
+		<component base="cedillacomb" xOffset="746.1099243164" yOffset="3.6845703125"/>
 	</outline>
 </glyph>

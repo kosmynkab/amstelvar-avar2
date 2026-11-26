@@ -3,18 +3,18 @@
 	<unicode hex="030C"/>
 	<outline>
 		<contour>
-			<point x="32" y="997" type="qcurve" smooth="yes"/>
-			<point x="25" y="1000"/>
-			<point x="5" y="1043"/>
-			<point x="-12" y="1083" type="qcurve" smooth="yes"/>
-			<point x="-95" y="1281" type="line"/>
-			<point x="-82" y="1287" type="line"/>
-			<point x="50" y="1069" type="line"/>
-			<point x="348" y="1287" type="line"/>
-			<point x="356" y="1276" type="line"/>
-			<point x="133" y="1078" type="line" smooth="yes"/>
-			<point x="81" y="1032"/>
-			<point x="38" y="994"/>
+			<point x="12" y="997" type="qcurve" smooth="yes"/>
+			<point x="5" y="1000"/>
+			<point x="-15" y="1043"/>
+			<point x="-32" y="1083" type="qcurve" smooth="yes"/>
+			<point x="-115" y="1281" type="line"/>
+			<point x="-102" y="1287" type="line"/>
+			<point x="30" y="1069" type="line"/>
+			<point x="328" y="1287" type="line"/>
+			<point x="336" y="1276" type="line"/>
+			<point x="113" y="1078" type="line" smooth="yes"/>
+			<point x="61" y="1032"/>
+			<point x="18" y="994"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="920"/>

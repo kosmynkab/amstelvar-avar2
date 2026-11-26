@@ -16,8 +16,8 @@
 			<point x="328.827866151" y="704.0004882812" type="line"/>
 			<point x="86.8295079281" y="704.0004882812" type="line"/>
 			<point x="188.829286574" y="999.9995117188" type="line"/>
-			<point x="278.829286574" y="1049.9995117188" type="line"/>
-			<point x="1541.103225112" y="1049.9995117188" type="line"/>
+			<point x="279" y="1050" type="line"/>
+			<point x="1541" y="1050" type="line"/>
 			<point x="1598.1220838237" y="932.9995117188" type="line"/>
 			<point x="1508.5176205091" y="842.9996076312"/>
 			<point x="1302.2052763649" y="659.7544589116"/>
@@ -34,6 +34,6 @@
 		</contour>
 	</outline>
 	<anchor name="bottom" x="910.0015437393" y="0"/>
-	<anchor name="top" x="699.9504533203" y="1040"/>
-	<anchor name="_liga" x="407.8181818182" y="0"/>
+	<anchor name="top" x="910" y="1040"/>
+	<anchor name="_liga" x="0" y="0"/>
 </glyph>
